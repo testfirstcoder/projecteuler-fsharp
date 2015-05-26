@@ -1,17 +1,12 @@
-﻿module ``Even Fibonacci numbers``
+﻿module ``Problem 2 - Even Fibonacci numbers``
 
 open NUnit.Framework
 open Swensen.Unquote
 
-let even x = x &&& 1 <> 1
+let even n = n &&& 1 <> 1
 
 let fibonacci = 
-    let rec fibonacci (a, b) =
-        seq { 
-            yield a
-            yield! fibonacci (b, b + a) 
-        }
-
+    let rec fibonacci (a, b) = seq { yield a; yield! fibonacci (b, b + a) }
     fibonacci(1, 2)
 
 let ``Σ Fibonacci numbers < n`` predicate n = 
