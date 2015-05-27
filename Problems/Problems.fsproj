@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Problem 1 - Multiples of 3 and 5.fs" />
     <Compile Include="Problem 2 - Even Fibonacci numbers.fs" />
+    <Compile Include="Problem 4 - Largest palindrome product.fs" />
     <Compile Include="Problem 14 - Longest Collatz sequence.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
