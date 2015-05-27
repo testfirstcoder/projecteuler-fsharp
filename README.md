@@ -1,5 +1,5 @@
 # projecteuler-fsharp
-<a href = "https://projecteuler.net/">ProjectEuler</a> + <a href = "http://fsharp.org/"><img alt="F# Logo" src=http://fsharp.org/img/logo.png></img></a>
+<a href = "https://projecteuler.net/">ProjectEuler</a><a href = "http://fsharp.org/"><img height=30 width=30 alt="F# Logo" src=http://fsharp.org/img/logo.png></img></a>
 <p>
 <a href = "https://projecteuler.net/problem=1">Problem 1 - Multiples of 3 and 5</a>
 <br>
