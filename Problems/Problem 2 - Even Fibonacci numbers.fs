@@ -21,3 +21,9 @@ let ``Σ Fibonacci numbers < n`` predicate n =
 [<TestCase(4000000, 4613732)>]
 let ``Σ even Fibonacci numbers < n`` n sum =
     test <@ ``Σ Fibonacci numbers < n`` even n = sum @>
+
+#if INTERACTIVE
+#time
+``Σ Fibonacci numbers < n`` even 4000000
+#time
+#endif

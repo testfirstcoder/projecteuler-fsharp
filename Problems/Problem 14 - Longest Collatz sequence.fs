@@ -36,7 +36,7 @@ open Swensen.Unquote
 let ``Σ Collatz sequence terms`` startingNumber length = test <@ collatzSequenceLength startingNumber = length @>
 
 [<TestCase(1000000, 837799)>]
-let ``Longest chain`` limit startingNumber = test <@ longestChain limit = startingNumber @>
+let ``Number with the longest chain`` limit result = test <@ longestChain limit = result @>
 
 #if INTERACTIVE
 #time

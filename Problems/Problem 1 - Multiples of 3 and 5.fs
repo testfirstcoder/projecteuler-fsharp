@@ -15,3 +15,9 @@ let ``Σ of multiples of 3 or 5`` n =
 [<TestCase(1000, 233168)>]
 let ``Σ of all the multiples of 3 or 5 for natural numbers < n`` n result =
     test <@ ``Σ of multiples of 3 or 5`` n = result @>
+
+#if INTERACTIVE
+#time
+``Σ of multiples of 3 or 5`` 1000
+#time
+#endif

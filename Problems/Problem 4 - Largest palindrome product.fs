@@ -15,7 +15,7 @@ open Swensen.Unquote
 
 [<TestCase(2, 9009)>]
 [<TestCase(3, 906609)>]
-let ``Largest palindrome made from the product of two n-digit numbers`` digitNumbers result = 
+let ``Largest palindrome made from the product of two n-digit numbers`` digitNumbers result =
     test <@ largestPalindrome digitNumbers = result @>
 
 

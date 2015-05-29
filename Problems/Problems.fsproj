@@ -52,7 +52,12 @@
     <Compile Include="Problem 1 - Multiples of 3 and 5.fs" />
     <Compile Include="Problem 2 - Even Fibonacci numbers.fs" />
     <Compile Include="Problem 4 - Largest palindrome product.fs" />
+    <Compile Include="Problem 5 - Smallest multiple.fs" />
+    <Compile Include="Problem 6 - Sum square difference.fs" />
+    <Compile Include="Problem 8 - Largest product in a series.fs" />
+    <Compile Include="Problem 9 - Special Pythagorean triplet.fs" />
     <Compile Include="Problem 14 - Longest Collatz sequence.fs" />
+    <Compile Include="Problem 20 - Factorial digit sum.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
