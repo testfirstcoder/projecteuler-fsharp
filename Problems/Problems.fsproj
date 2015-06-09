@@ -56,8 +56,15 @@
     <Compile Include="Problem 6 - Sum square difference.fs" />
     <Compile Include="Problem 8 - Largest product in a series.fs" />
     <Compile Include="Problem 9 - Special Pythagorean triplet.fs" />
+    <Compile Include="Problem 13 - Large sum.fs" />
     <Compile Include="Problem 14 - Longest Collatz sequence.fs" />
+    <Compile Include="Problem 16 - Power digit sum.fs" />
     <Compile Include="Problem 20 - Factorial digit sum.fs" />
+    <Compile Include="Problem 25 - 1000-digit Fibonacci number.fs" />
+    <Compile Include="Problem 30 - Digit fifth powers.fs" />
+    <Compile Include="Problem 44 - Pentagon numbers.fs" />
+    <Compile Include="Problem 54 - Poker hands.fs" />
+    <Compile Include="Problem 56 - Powerful digit sum.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
