@@ -15,8 +15,22 @@
 <br>
 <a href = "https://projecteuler.net/problem=9">Problem 9 - Special Pythagorean triplet</a>
 <br>
+<a href = "https://projecteuler.net/problem=13">Problem 13 - Large sum</a>
+<br>
 <a href = "https://projecteuler.net/problem=14">Problem 14 - Longest Collatz sequence</a>
 <br>
+<a href = "https://projecteuler.net/problem=16">Problem 16 - Power digit sum</a>
+<br>
 <a href = "https://projecteuler.net/problem=20">Problem 20 - Factorial digit sum</a>
+<br>
+<a href = "https://projecteuler.net/problem=25">Problem 25 - 1000-digit Fibonacci number</a>
+<br>
+<a href = "https://projecteuler.net/problem=30">Problem 30 - Digit fifth powers</a>
+<br>
+<a href = "https://projecteuler.net/problem=44">Problem 44 - Pentagon numbers</a>
+<br>
+<a href = "https://projecteuler.net/problem=54">Problem 54 - Poker hands</a>
+<br>
+<a href = "https://projecteuler.net/problem=56">Problem 56 - Powerful digit sum</a>
 </p>
 
