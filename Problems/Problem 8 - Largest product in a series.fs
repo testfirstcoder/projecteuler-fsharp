@@ -42,3 +42,10 @@ let ``Greatest product of the n adjacent digits in the 1000-digit number`` n res
 largestProduct number 13
 #time
 #endif
+
+let numbers = 
+    number 
+    |> Seq.filter System.Char.IsDigit
+    |> Seq.map (string >> int) 
+    |> Array.ofSeq
+

@@ -15,6 +15,8 @@
 <br>
 <a href = "https://projecteuler.net/problem=9">Problem 9 - Special Pythagorean triplet</a>
 <br>
+<a href = "https://projecteuler.net/problem=11">Problem 11 - Special Pythagorean triplet</a>
+<br>
 <a href = "https://projecteuler.net/problem=13">Problem 13 - Large sum</a>
 <br>
 <a href = "https://projecteuler.net/problem=14">Problem 14 - Longest Collatz sequence</a>

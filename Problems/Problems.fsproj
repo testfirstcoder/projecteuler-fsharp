@@ -56,6 +56,7 @@
     <Compile Include="Problem 6 - Sum square difference.fs" />
     <Compile Include="Problem 8 - Largest product in a series.fs" />
     <Compile Include="Problem 9 - Special Pythagorean triplet.fs" />
+    <Compile Include="Problem 11 - Largest product in a grid.fs" />
     <Compile Include="Problem 13 - Large sum.fs" />
     <Compile Include="Problem 14 - Longest Collatz sequence.fs" />
     <Compile Include="Problem 16 - Power digit sum.fs" />
