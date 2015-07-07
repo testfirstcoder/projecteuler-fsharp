@@ -31,8 +31,12 @@
 <br>
 <a href = "https://projecteuler.net/problem=44">Problem 44 - Pentagon numbers</a>
 <br>
+<a href = "https://projecteuler.net/problem=48">Problem 48 - Self powers</a>
+<br>
 <a href = "https://projecteuler.net/problem=54">Problem 54 - Poker hands</a>
 <br>
 <a href = "https://projecteuler.net/problem=56">Problem 56 - Powerful digit sum</a>
+<br>
+<a href = "https://projecteuler.net/problem=92">Problem 92 - Square digit chains</a>
 </p>
 

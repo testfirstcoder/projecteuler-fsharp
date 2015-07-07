@@ -64,8 +64,10 @@
     <Compile Include="Problem 25 - 1000-digit Fibonacci number.fs" />
     <Compile Include="Problem 30 - Digit fifth powers.fs" />
     <Compile Include="Problem 44 - Pentagon numbers.fs" />
+    <Compile Include="Problem 48 - Self powers.fs" />
     <Compile Include="Problem 54 - Poker hands.fs" />
     <Compile Include="Problem 56 - Powerful digit sum.fs" />
+    <Compile Include="Problem 92 - Square digit chains.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
