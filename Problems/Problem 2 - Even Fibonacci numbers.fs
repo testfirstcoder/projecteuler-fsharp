@@ -7,7 +7,7 @@ let even n = n &&& 1 <> 1
 
 let fibonacci = 
     let rec fibonacci (a, b) = seq { yield a; yield! fibonacci (b, b + a) }
-    fibonacci(1, 2)
+    fibonacci (1, 2)
 
 let ``Σ even Fibonacci numbers`` n = 
     fibonacci 
