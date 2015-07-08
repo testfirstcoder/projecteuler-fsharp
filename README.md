@@ -27,6 +27,8 @@
 <br>
 <a href = "https://projecteuler.net/problem=25">Problem 25 - 1000-digit Fibonacci number</a>
 <br>
+<a href = "https://projecteuler.net/problem=28">Problem 28 - Number spiral diagonals</a>
+<br>
 <a href = "https://projecteuler.net/problem=30">Problem 30 - Digit fifth powers</a>
 <br>
 <a href = "https://projecteuler.net/problem=44">Problem 44 - Pentagon numbers</a>
