@@ -29,6 +29,8 @@
 <br>
 <a href = "https://projecteuler.net/problem=28">Problem 28 - Number spiral diagonals</a>
 <br>
+<a href = "https://projecteuler.net/problem=29">Problem 29 - Distinct powers</a>
+<br>
 <a href = "https://projecteuler.net/problem=30">Problem 30 - Digit fifth powers</a>
 <br>
 <a href = "https://projecteuler.net/problem=44">Problem 44 - Pentagon numbers</a>

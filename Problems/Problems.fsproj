@@ -63,6 +63,7 @@
     <Compile Include="Problem 20 - Factorial digit sum.fs" />
     <Compile Include="Problem 25 - 1000-digit Fibonacci number.fs" />
     <Compile Include="Problem 28 - Number spiral diagonals.fs" />
+    <Compile Include="Problem 29 - Distinct powers.fs" />
     <Compile Include="Problem 30 - Digit fifth powers.fs" />
     <Compile Include="Problem 44 - Pentagon numbers.fs" />
     <Compile Include="Problem 48 - Self powers.fs" />
