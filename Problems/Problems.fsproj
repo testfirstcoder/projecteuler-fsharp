@@ -67,6 +67,7 @@
     <Compile Include="Problem 29 - Distinct powers.fs" />
     <Compile Include="Problem 30 - Digit fifth powers.fs" />
     <Compile Include="Problem 39 - Integer right triangles.fs" />
+    <Compile Include="Problem 40 - Champernowne%27s constant.fs" />
     <Compile Include="Problem 44 - Pentagon numbers.fs" />
     <Compile Include="Problem 48 - Self powers.fs" />
     <Compile Include="Problem 54 - Poker hands.fs" />

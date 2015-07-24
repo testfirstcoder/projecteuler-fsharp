@@ -35,6 +35,8 @@
 <br>
 <a href = "https://projecteuler.net/problem=39">Problem 39 - Integer right triangles</a>
 <br>
+<a href = "https://projecteuler.net/problem=40">Problem 40 - Champernowne's constant</a>
+<br>
 <a href = "https://projecteuler.net/problem=44">Problem 44 - Pentagon numbers</a>
 <br>
 <a href = "https://projecteuler.net/problem=48">Problem 48 - Self powers</a>
