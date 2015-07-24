@@ -21,21 +21,13 @@ let number = "73167176531330624919225119674426574742355349194934
               05886116467109405077541002256983155200055935729725
               71636269561882670428252483600823257530420752963450"
 
-let largestProduct number serie = 
-    number 
+let largestProduct number serie =
+    number
     |> Seq.filter System.Char.IsDigit
-    |> Seq.map (string >> int) 
-    |> Seq.windowed serie 
+    |> Seq.map (string >> int64)
+    |> Seq.windowed serie
     |> Seq.map (Seq.reduce (*))
-    |> Seq.max 
-
-open NUnit.Framework
-open Swensen.Unquote
-
-[<TestCase(4, 5832)>]
-[<TestCase(13, 2091059712)>]
-let ``Greatest product of the n adjacent digits in the 1000-digit number`` n result =
-    test <@ largestProduct number n = result @>
+    |> Seq.max
 
 #if INTERACTIVE
 #time
@@ -43,9 +35,10 @@ largestProduct number 13
 #time
 #endif
 
-let numbers = 
-    number 
-    |> Seq.filter System.Char.IsDigit
-    |> Seq.map (string >> int) 
-    |> Array.ofSeq
+open NUnit.Framework
+open Swensen.Unquote
 
+[<TestCase(4, 5832L)>]
+[<TestCase(13, 23514624000L)>]
+let ``Greatest product of the n adjacent digits in the 1000-digit number`` n result =
+    test <@ largestProduct number n = result @>
