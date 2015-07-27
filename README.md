@@ -39,6 +39,8 @@
 <br>
 <a href = "https://projecteuler.net/problem=44">Problem 44 - Pentagon numbers</a>
 <br>
+<a href = "https://projecteuler.net/problem=45">Problem 45 - Triangular, pentagonal, and hexagonal</a>
+<br>
 <a href = "https://projecteuler.net/problem=48">Problem 48 - Self powers</a>
 <br>
 <a href = "https://projecteuler.net/problem=54">Problem 54 - Poker hands</a>
